@@ -1,0 +1,5 @@
+data:
+  env: forspringconfigprod
+  user:
+    username: configprod
+    password: configprod
