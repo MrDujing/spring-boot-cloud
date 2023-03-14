@@ -1,5 +1,5 @@
 data:
-  env: forspringconfigdevtwo
+  env: forspringconfigdevonetwo
   user:
     username: configdev
     password: configdev
